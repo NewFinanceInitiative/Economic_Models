@@ -1,13 +1,6 @@
 // SPDX-License-Identifier: MIT
 
-// Contract RebusMatic_V0.1 is an economic acitivity model based on the application of the consumer and producer theory  
-// that is going to be applied for the decentralised finance (DeFi) markets on all EVM public blockchains that are  
-// functional with the process of implementing financial activity. RebusMatic_V0.1 is aimed to be supportive
-// of modelling economic acitivty in the decentralised finance (DeFi) markets by applying the consumer
-// and producer theory to help apply metrics that can be executed for the purposes of analysising economic activity
-// that creates the market for decentralised finance (DeFi). RebusMatic_V0.1 is based on the metrics that can be 
-// applied to decentralised finance (DeFi) activity for accountability to be given for the instance of transactions and 
-// the execution of smart contract functions that determines utility and profits for both consumers and producers.
+// Contract RebusMatic_V0.1 is an economic acitivity model based on the application of the consumer and producer theory.
 
 pragma solidity ^0.8.20;
 
