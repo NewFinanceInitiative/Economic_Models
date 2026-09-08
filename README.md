@@ -1,6 +1,6 @@
-# Economic_Models
+# Economic Models
 
-Economic models for the Ethereum blockchain.
+The Bitcoin Standard & Economic models for the Ethereum blockchain.
 
 ## Bitcoin Economic Model
 
