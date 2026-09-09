@@ -12,7 +12,7 @@ There is possibilities that such Bitcoin economic models can be developed to wha
 
 ## Ethereum Economic Models
 
-The based point of programmability in Ethereum is a massive advancement in technology capabilities for economists and financial technology. 
+The based point of programmability in Ethereum and the EVM is a massive advancement in technology capabilities for economists and financial technology. 
 
 The New Finance Initiative economic models warehoused in "Escentra" are based with understanding different types of economic activity that happen on the Ethereum blockchain. As a native economy that operates with consumers and producers, RebusMatic is developed to operate as a neo-classical austrian consumer & producer theory economic model that provides an insight into how the behaviour of consumers and producers on the Ethereum network operate. RebusMatic is aimed mostly at understanding the differences between consumers and producers and how behaviour on the Ethereum blockchain is processed.
 
